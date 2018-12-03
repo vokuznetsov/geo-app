@@ -7,7 +7,7 @@ Java 8
 ./gradlew clean build && java -jar build/libs/geo-app-1.0.jar
 ```
 
-##SQL схема
+## SQL схема
 Для генерация SQL скрипта был написан небольшой класс `HibernateExporter.class`, использующий возможности Hibernate.
 
 Сгенерировать SQL DDL скрипт:
